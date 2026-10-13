@@ -72,3 +72,16 @@ Replace `YOUR_USERNAME` with your own GitHub username. GitHub hosts the source c
 ## Optional next phase
 
 After the core tests pass, add a separate Streamlit dashboard to browse student results, adjust thresholds and explore charts interactively. Streamlit is **not** required for this assignment and is not included in the core project.
+  ## Results & Visualizations
+
+### Student Grade Distribution
+
+This chart shows the grade distribution of 50 students.
+
+![Student Grade Distribution](output/grade_distribution.png)
+
+### Subject-wise Average Marks
+
+This chart compares the average marks of students across five subjects.
+
+![Subject-wise Average Marks](output/subject_averages.png)
