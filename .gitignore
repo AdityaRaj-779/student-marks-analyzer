@@ -3,4 +3,8 @@ __pycache__/
 .pytest_cache/
 *.py[cod]
 .DS_Store
-output/
+
+# Ignore generated output except charts
+output/*
+!output/grade_distribution.png
+!output/subject_averages.png
